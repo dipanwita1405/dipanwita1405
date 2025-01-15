@@ -51,12 +51,7 @@
 </div>
 <br>
 
-<h2 align="center">Profile Stats :</h2>
 
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipanwita1405&theme=radical&hide_border=false" height="150" alt="languages graph" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanwita1405&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
-</div>
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -79,3 +74,10 @@
 <!--   [![An image of @dipanwita1405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipanwita1405)](https://holopin.io/@dipanwita1405) -->
 </a>
 </details>
+
+<h2 align="center">Profile Stats :</h2>
+
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipanwita1405&theme=radical&hide_border=false" height="150" alt="languages graph" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanwita1405&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="streak graph"  />
+</div>
